@@ -3,6 +3,6 @@ package pl.malkiewicz.git;
 public class TestGit {
 	
 	public static void main (String[] args) {
-		System.out.println("Test!!");
+		System.out.println("Test!! HAHAHA MAM ZMIANE!!");
 	}
 }
